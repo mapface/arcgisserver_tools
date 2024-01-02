@@ -1,0 +1,14 @@
+{
+    "gis1": {
+        "admin": "https://gis1.com/arcgis/admin",
+        "rest": "https://gis1.com/gis/rest/services",
+		"access": "external",
+		"type": "ArcGIS Server"
+    },
+    "gis2": {
+        "admin": "https://gis2/arcgis/admin",
+        "rest": "https://gis2/gis/rest/",
+		"access": "internal",
+		"type": "ArcGIS Server"
+    }
+}
