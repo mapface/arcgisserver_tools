@@ -1,0 +1,26 @@
+{
+    "arcgis_servers": {
+        "ags1": {
+            "admin": "https://.../arcgis/admin",
+            "rest": "https://.../rest/services",
+            "access": "external"
+        },
+        "ags2": {
+            "admin": "https://.../arcgis/admin",
+            "rest": "https://.../rest/services",
+            "access": "external"
+        }
+    },
+    "arcgis_image_servers": {
+        "img1": {
+            "admin": "https://.../arcgis/admin",
+            "rest": "https://.../rest/services",
+            "access": "external"
+        },
+        "img2": {
+            "admin": "https:/.../arcgis/admin",
+            "rest": "https://.../rest/services",
+            "access": "external"
+        }
+    }
+}
